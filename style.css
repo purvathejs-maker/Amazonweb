@@ -4,6 +4,13 @@
     font-family:Arial, Helvetica, sans-serif;
     border:border-box;
 }
+.disclaimer {
+    background-color: #fff3cd;
+    color: #333;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
 
 .navbar{                                        /*Main*/
     height: 60px;
